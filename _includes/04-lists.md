@@ -1,2 +1,3 @@
-*SMash
-*Smash
+- SMash
+- Smash
+- smash
